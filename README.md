@@ -165,6 +165,7 @@ It also provided hands-on exposure to alert triage, endpoint monitoring, vulnera
 
 ## Project Structure
 
+```text
 wazuh-security-monitoring-lab/
 │
 ├── README.md
@@ -179,6 +180,8 @@ wazuh-security-monitoring-lab/
     ├── ubuntu-fim-alerts.png
     ├── wazuh-agents-overview.png
     ├── windows-fim-alerts.png
-    └── architecture.png# wazuh-security-monitoring-lab
+    └── architecture.png
+
+# wazuh-security-monitoring-lab
     
 Hands-on Wazuh security monitoring lab covering File Integrity Monitoring (FIM), Linux Audit, Active Response, and Suricata integration.
